@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Udacity - Operationalize a Machine Learning Microservice API
 
-[![CircleCI](https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)]
+![CircleCI](https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)
 
 This repository contains the assignment: Operationalize a Machine Learning Microservice API, which contains several parts:
 
